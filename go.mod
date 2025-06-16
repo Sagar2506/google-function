@@ -1,4 +1,4 @@
-module github.com/Sagar2506/google-function
+module example.com/helloworld-function
 
 go 1.24.3
 
