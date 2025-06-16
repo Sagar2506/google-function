@@ -1,4 +1,4 @@
-module example.com/my-go-function
+module github.com/Sagar2506/google-function
 
 go 1.24.3
 
